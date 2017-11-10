@@ -9,4 +9,5 @@
   	<module>Service</module>
   	<module>Web</module>
   </modules>
+  <dependencies></dependencies>
 </project>
